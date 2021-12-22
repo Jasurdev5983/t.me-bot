@@ -1,0 +1,23 @@
+{
+  "name": "t.me-bot",
+  "version": "1.0.0",
+  "description": "This is my first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jasurdev5983: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@github.com/Jasurdev5983/t.me-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasurdev5983/t.me-bot/issues"
+  },
+  "homepage": "https://github.com/Jasurdev5983/t.me-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
